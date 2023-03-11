@@ -1,5 +1,6 @@
 /*
  * Release Log
+ * Keypad duration changed to 150ms, response greatly improved. 3/11/2023
  * Save the selected gas index to the EEPROM memory. 3/4/2023
  * Range Selection Added but not implemented in the calculation. 2/28/2023
  * Bluetooth Datalogging added and implemented.
